@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Política de privacidad | CalorAI Nova</title>
+<style>
+body{font-family:Arial,sans-serif;max-width:800px;margin:35px auto;padding:0 20px;line-height:1.6;color:#222}
+h1,h2{color:#208AEF}
+</style>
+</head>
+<body>
+<h1>Política de privacidad de CalorAI Nova</h1>
+<p><strong>Última actualización:</strong> 21 de noviembre de 2026</p>
+
+<h2>1. Responsable de la aplicación</h2>
+<p>Responsable del tratamiento: Orlando Araujo Martin.</p>
+<p>CalorAI Nova es una aplicación destinada al registro y seguimiento de la alimentación, las calorías, el peso y la actividad física.</p>
+<p>Correo de contacto: calorainova@gmail.com</p>
+
+<h2>2. Datos que utiliza la aplicación</h2>
+<p>La aplicación permite registrar alimentos, comidas, calorías, objetivos nutricionales, peso, medidas corporales, actividad física y preferencias.</p>
+<p>No requiere crear una cuenta ni iniciar sesión. Los registros de uso se almacenan localmente en el dispositivo.</p>
+
+<h2>3. Análisis de alimentos mediante fotografías</h2>
+<p>La función de análisis mediante inteligencia artificial es opcional. Cuando se utiliza, la fotografía y el texto de consulta se transmiten a través de un servidor alojado en Render y se envían a Google Gemini API para identificar alimentos y estimar su contenido calórico.</p>
+<p>El servidor procesa la información para realizar el análisis y no incorpora una función de almacenamiento permanente de las fotografías. El tratamiento por parte de los proveedores externos está sujeto a sus propias condiciones y políticas.</p>
+<p>Se recomienda no incluir información personal innecesaria en las fotografías o consultas.</p>
+
+<h2>4. Proveedores externos</h2>
+<p>La aplicación utiliza Render para alojar el servidor de análisis y Google Gemini API para procesar las consultas de inteligencia artificial.</p>
+
+<h2>5. Publicidad y venta de datos</h2>
+<p>La aplicación no vende datos personales.</p>
+
+<h2>6. Conservación y eliminación</h2>
+<p>Los registros guardados en el dispositivo permanecen allí hasta que el usuario los elimine. También pueden eliminarse borrando los datos de la aplicación desde los ajustes del dispositivo o desinstalándola.</p>
+<p>La información enviada a proveedores externos queda sujeta a sus respectivas condiciones y periodos de conservación.</p>
+
+<h2>7. Seguridad</h2>
+<p>Las comunicaciones con los servicios externos se realizan mediante conexiones cifradas.</p>
+
+<h2>8. Derechos de los usuarios</h2>
+<p>Los usuarios pueden ejercer los derechos de acceso, rectificación, supresión, oposición y limitación del tratamiento cuando corresponda, escribiendo a:</p>
+<p><strong>calorainova@gmail.com</strong></p>
+<p>También pueden acudir a la Agencia Española de Protección de Datos: <a href="https://www.aepd.es/">www.aepd.es</a>.</p>
+
+<h2>9. Cambios en esta política</h2>
+<p>Esta política podrá actualizarse cuando cambien las funciones de la aplicación o los servicios utilizados. La versión vigente estará disponible en esta dirección.</p>
+
+<h2>10. Contacto</h2>
+<p>CalorAI Nova<br>
+Orlando Araujo Martin<br>
+Correo: calorainova@gmail.com</p>
+</body>
+</html>
